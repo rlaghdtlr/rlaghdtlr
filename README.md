@@ -1,23 +1,47 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlaghdtlr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-## Hi there 👋
+## 👋 About Me
+안녕하세요! 저는 프론트엔드 개발자 **[김홍식]**입니다. 주로 Vue.js와 Node.js를 사용하여 웹 애플리케이션을 개발하며, 클린 코드와 효율적인 UI/UX 디자인에 관심이 많습니다. 현재는 TypeScript와 고급 JavaScript 패턴을 학습하고 있습니다.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaghdtlr&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghdtlrjkl)](https://solved.ac/rlaghdtlrjkl/) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaghdtlr&layout=compact) <br>
 
+
 # 💪Skills
+## 💻 Tech Stack
 ### Platforms & Languages
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
+![BootstrapVue](https://img.shields.io/badge/BootstrapVue-42b883.svg?&style=for-the-badge&logo=BootstrapVue&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
- 
+
+## 🌱 Currently Learning
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C.svg?&style=for-the-badge&logo=DeepLearning&logoColor=white)
+
+## 🛠️ Interested In
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E.svg?&style=for-the-badge&logo=Nuxt.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
+
+<!--
+## 🚀 Projects
+- **[프로젝트 이름](프로젝트 링크)**: 프로젝트에 대한 간단한 설명. 이 프로젝트에서 사용된 주요 기술 (Vue.js, Node.js, MySQL 등) 및 기여 내용.
+- **[프로젝트 이름](프로젝트 링크)**: 프로젝트에 대한 간단한 설명. 이 프로젝트에서 사용된 주요 기술 및 기여 내용.
+-->
+
 # :mailbox_with_mail: Contacts
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mypage.tistory.com/)](https://mypage.tistory.com/) -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaghdtlrjkl@gmail.com)](mailto:rlaghdtlrjkl@gmail.com)
