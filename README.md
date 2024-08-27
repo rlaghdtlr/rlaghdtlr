@@ -16,6 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
@@ -47,8 +48,11 @@
 # :mailbox_with_mail: Contacts
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mypage.tistory.com/)](https://mypage.tistory.com/) -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaghdtlrjkl@gmail.com)](mailto:rlaghdtlrjkl@gmail.com)
+
 rlaghdtlrjkl@gmail.com
+
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlaghdtlrjkl@naver.com)](mailto:rlaghdtlrjkl@naver.com)
+
 rlaghdtlrjkl@naver.com
 <!--
 **rlaghdtlr/rlaghdtlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
