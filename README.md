@@ -47,8 +47,8 @@
 
 # :mailbox_with_mail: Contacts
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mypage.tistory.com/)](https://mypage.tistory.com/) -->
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaghdtlrjkl@gmail.com)](mailto:rlaghdtlrjkl@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlaghdtlrjkl@naver.com)](mailto:rlaghdtlrjkl@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaghdtlrjkl@gmail.com)](mailto:rlaghdtlrjkl@gmail.com)
 
 rlaghdtlrjkl@naver.com
 
