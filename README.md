@@ -25,7 +25,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ## 🌱 Currently Learning
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C.svg?&style=for-the-badge&logo=DeepLearning&logoColor=white)
 
