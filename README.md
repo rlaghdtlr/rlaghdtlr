@@ -17,6 +17,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
