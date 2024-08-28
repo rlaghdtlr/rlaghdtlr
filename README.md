@@ -34,6 +34,7 @@
 ## 🌱 Currently Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C.svg?&style=for-the-badge&logo=DeepLearning&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=white)
 
 ## 🛠️ Interested In
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E.svg?&style=for-the-badge&logo=Nuxt.js&logoColor=white)
