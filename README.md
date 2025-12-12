@@ -1,11 +1,7 @@
 # 👋 About Me
 안녕하세요! 저는 프론트엔드 개발자 김홍식입니다. 주로 Vue.js와 Node.js를 사용하여 웹 애플리케이션을 개발하며, 클린 코드와 효율적인 UI/UX 디자인에 관심이 많습니다. 현재는 PyTorch를 사용한 Deep Learning을 학습하고 있습니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaghdtlr&show_icons=true&theme=radical)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghdtlrjkl)](https://solved.ac/rlaghdtlrjkl/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaghdtlr&layout=compact)
 
 
 # 💪Skills
