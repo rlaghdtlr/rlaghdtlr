@@ -22,7 +22,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E.svg?&style=for-the-badge&logo=Nuxt.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00C58E.svg?&style=for-the-badge&logo=Nuxt&logoColor=white)
+![NuxtUI](https://img.shields.io/badge/NuxtUI.js-00C58E.svg?&style=for-the-badge&logo=NuxtUI&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 
 ### Tools
