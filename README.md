@@ -1,12 +1,15 @@
 # 👋 About Me
-안녕하세요! 저는 프론트엔드 개발자 김홍식입니다. 주로 Vue.js와 Node.js를 사용하여 웹 애플리케이션을 개발하며, 클린 코드와 효율적인 UI/UX 디자인에 관심이 많습니다. 현재는 PyTorch를 사용한 Deep Learning을 학습하고 있습니다.
+
+안녕하세요! 저는 프론트엔드 개발자 김홍식입니다. 주로 Vue.js와 Node.js를 사용하여 웹 애플리케이션을 개발하며, 클린 코드와 효율적인 UI/UX 디자인에 관심이 많습니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghdtlrjkl)](https://solved.ac/rlaghdtlrjkl/)
 
-
 # 💪Skills
+
 ## 💻 Tech Stack
+
 ### Platforms & Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -25,20 +28,19 @@
 ![Nuxt](https://img.shields.io/badge/Nuxt-00C58E.svg?&style=for-the-badge&logo=Nuxt&logoColor=white)
 ![NuxtUI](https://img.shields.io/badge/NuxtUI-00C58E.svg?&style=for-the-badge&logo=NuxtUI&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F.svg?&style=for-the-badge&logo=Electron&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-008080.svg?&style=for-the-badge&logo=Cursor&logoColor=white)
-
-## 🌱 Currently Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C.svg?&style=for-the-badge&logo=DeepLearning&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=white)
 
-## 🛠️ Interested In
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
+## 🌱 Currently Learning
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C.svg?&style=for-the-badge&logo=DeepLearning&logoColor=white)
 
 <!--
 ## 🚀 Projects
@@ -47,7 +49,9 @@
 -->
 
 # :mailbox_with_mail: Contacts
+
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mypage.tistory.com/)](https://mypage.tistory.com/) -->
+
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlaghdtlrjkl@naver.com)](mailto:rlaghdtlrjkl@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaghdtlrjkl@gmail.com)](mailto:rlaghdtlrjkl@gmail.com)
 
