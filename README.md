@@ -2,7 +2,7 @@
 
 안녕하세요! 저는 풀스택 개발자 김홍식입니다. 주로 Vue.js와 Node.js를 사용하여 웹 애플리케이션을 개발하며, 클린 코드와 효율적인 UI/UX 디자인에 관심이 많습니다.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghdtlrjkl)](https://solved.ac/rlaghdtlrjkl/)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=papky)](https://solved.ac/ko/u/papky)
 
 # 💪Skills
 
