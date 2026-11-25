@@ -34,13 +34,8 @@
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-008080.svg?&style=for-the-badge&logo=Cursor&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=white)
-
-## 🌱 Currently Learning
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C.svg?&style=for-the-badge&logo=DeepLearning&logoColor=white)
 
 <!--
 ## 🚀 Projects
